@@ -4,6 +4,11 @@ Important notes!
 
 This version is the first "final" release:
 
+WSJT-X 3.0.1 allows automatic QSO logging. Previous versions only logged automatically for contests.
+Therefore the new Helper does not log itself.
+In the WSJT-X Settings under „Reporting“ the checkbox „Log automatically“ must be selected!
+
+
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software. Be sure using the original WSJTX! There are clones in circulation using the same version-number as the origianl WSJTX. It will not work!
 
 new in v3.0.1-2
