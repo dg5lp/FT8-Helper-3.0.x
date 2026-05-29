@@ -13,6 +13,7 @@ When using the automatic frequency search function (AutoFrq) of the FT8-Helper, 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software. Be sure using the original WSJTX! There are clones in circulation using the same version-number as the origianl WSJTX. It will not work!
 
 new in v3.0.1-3
+
     Incorrect handling of the blue checkboxes of WIN-11 has been fixed 
 
 new in v3.0.1-2
