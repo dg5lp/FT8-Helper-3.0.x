@@ -14,7 +14,8 @@ new in v3.0.2-1
 
     This version is compatible with WSJT-X v3.0.1 and WSJT-X v3.0.2
     Issues with starting the program without configuration files have been resolved
-    It is possible to start WSJT-X with the -r option, but it is not possible to start the FT8 Helper with two instances.
+    It is possible to start WSJT-X with the -r option, but it is not possible to start
+    the FT8 Helper with two instances.
     
 new in v3.0.1-4
 
